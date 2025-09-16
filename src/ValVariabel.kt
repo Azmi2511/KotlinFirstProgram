@@ -1,9 +1,9 @@
 fun main(args: Array<String>) {
-    val varVariabel: Int
-    varVariabel = 56 //assigning first value to varVariabel
-    println("Pemberian nilai pertama pada varVariabel = "+varVariabel)
-//    varVariabel = 78 //assigning second value to varVariabel
-    println("Pemberian nilai kedua pada varVariabel = "+varVariabel)
+    val valVariabel: Int
+    valVariabel = 56 //assigning first value to valVariabel
+    println("Pemberian nilai pertama pada valVariabel = "+valVariabel)
+//    valVariabel = 78 //assigning second value to valVariabel
+    println("Pemberian nilai kedua pada valVariabel = "+valVariabel)
     val phi = 3.14
 //    phi = 2.5
 }
